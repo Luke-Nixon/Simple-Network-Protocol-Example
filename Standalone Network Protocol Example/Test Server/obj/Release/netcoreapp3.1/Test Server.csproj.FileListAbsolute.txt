@@ -1,0 +1,14 @@
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\bin\Release\netcoreapp3.1\Test Server.exe
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\bin\Release\netcoreapp3.1\Test Server.deps.json
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\bin\Release\netcoreapp3.1\Test Server.runtimeconfig.json
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\bin\Release\netcoreapp3.1\Test Server.runtimeconfig.dev.json
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\bin\Release\netcoreapp3.1\Test Server.dll
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\bin\Release\netcoreapp3.1\Test Server.pdb
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\obj\Release\netcoreapp3.1\Test Server.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\obj\Release\netcoreapp3.1\Test Server.AssemblyInfoInputs.cache
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\obj\Release\netcoreapp3.1\Test Server.AssemblyInfo.cs
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\obj\Release\netcoreapp3.1\Test Server.csproj.CopyComplete
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\obj\Release\netcoreapp3.1\Test Server.dll
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\obj\Release\netcoreapp3.1\Test Server.pdb
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\bin\Release\netcoreapp3.1\Network_Protocol_Library.dll
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Server\bin\Release\netcoreapp3.1\Network_Protocol_Library.pdb

@@ -1,0 +1,4 @@
+﻿syntax = "proto3";
+package tutorial;
+
+import "google/protobuf/timestamp.proto";

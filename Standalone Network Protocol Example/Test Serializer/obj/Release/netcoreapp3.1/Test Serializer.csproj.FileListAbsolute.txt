@@ -1,0 +1,14 @@
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\bin\Release\netcoreapp3.1\Test Serializer.exe
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\bin\Release\netcoreapp3.1\Test Serializer.deps.json
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\bin\Release\netcoreapp3.1\Test Serializer.runtimeconfig.json
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\bin\Release\netcoreapp3.1\Test Serializer.runtimeconfig.dev.json
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\bin\Release\netcoreapp3.1\Test Serializer.dll
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\bin\Release\netcoreapp3.1\Test Serializer.pdb
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\obj\Release\netcoreapp3.1\Test Serializer.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\obj\Release\netcoreapp3.1\Test Serializer.AssemblyInfoInputs.cache
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\obj\Release\netcoreapp3.1\Test Serializer.AssemblyInfo.cs
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\obj\Release\netcoreapp3.1\Test Serializer.csproj.CopyComplete
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\obj\Release\netcoreapp3.1\Test Serializer.dll
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\obj\Release\netcoreapp3.1\Test Serializer.pdb
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\bin\Release\netcoreapp3.1\Network_Protocol_Library.dll
+C:\Users\Luke\Desktop\cloud\OneDrive\uni stuff\year 3\Final Project\Project Artifact\Standalone Network Protocol Example\Test Serializer\bin\Release\netcoreapp3.1\Network_Protocol_Library.pdb
