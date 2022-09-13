@@ -13,7 +13,7 @@ The project contains four seperate subfolders that contain the source code for d
 This folder contains all of the source code for the other programs including the testing program, the example client and the example server program.
 This library is the core of the project and features a basic custom seriliser to convert simple user generated classes into data that can be sent over the network using UDP sockets.The library is designed to be expandable and facilitate new custom serialisable objects that can be transmitted over the network using the instructions in the serialiser.
 
-- Example server
+- Example server -
 Folder contains the code for the server application. This server listens for incoming connections on the specified port once run. Once connected to a client, the server will relay information to each client.
 
 - Example client
