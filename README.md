@@ -10,7 +10,7 @@ The protocl library, client and server program can then be tested using the test
 The project contains four seperate subfolders that contain the source code for different applications and librarys.
 
 - Network Protocol Library.
-\n This folder contains all of the source code for the other programs including the testing program, the example client and the example server program.
+This folder contains all of the source code for the other programs including the testing program, the example client and the example server program.
 This library is the core of the project and features a basic custom seriliser to convert simple user generated classes into data that can be sent over the network using UDP sockets.The library is designed to be expandable and facilitate new custom serialisable objects that can be transmitted over the network using the instructions in the serialiser.
 
 - Example server.
