@@ -3,7 +3,7 @@
 created for a proof of concept for a university course.
  
 This project contains a simple custom data serialiser and network protocol that comunicates using UDP sockets. 
-The protocol simply enables multiple clients to connect to a single server and can be identified by a name. The server then comunicates the client information and name back to each client.
+The protocol enables multiple clients to connect to a single server and can be identified by a name. The server then comunicates the client information and name back to each client.
 
 The protocl library, client and server program can then be tested using the testing program to measure the quality and speed of the protocl.
 
